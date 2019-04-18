@@ -2,7 +2,7 @@
     "name": "outshared-extension-pack",
     "displayName": "OutShared Extension Pack",
     "description": "Extension pack for OutShared front-end developers",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "engines": {
         "vscode": "^1.33.0"
     },
