@@ -10,6 +10,10 @@
     "categories": [
         "Extension Packs"
     ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/outshared/extension-pack"
+    },
     "extensionPack": [
         "dbaeumer.vscode-eslint",
         "glen-84.sass-lint",
