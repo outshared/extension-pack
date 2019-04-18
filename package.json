@@ -1,0 +1,22 @@
+{
+    "name": "outshared-extension-pack",
+    "displayName": "OutShared Extension Pack",
+    "description": "Extension pack for OutShared front-end developers",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.33.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "dbaeumer.vscode-eslint",
+        "glen-84.sass-lint",
+        "johnpapa.vscode-peacock",
+        "mikael.angular-beastcode",
+        "msjsdiag.debugger-for-chrome",
+        "ms-vscode.vscode-typescript-tslint-plugin",
+        "pkief.material-icon-theme",
+        "visualstudioexptteam.vscodeintellicode"
+    ]
+}
